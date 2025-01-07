@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestTriangle" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-07T13:21:16" hostname="codespaces-a2960a" time="0.011">
+  <properties/>
+  <testcase name="testConstructorAndGetVertices()" classname="com.example.project.TestTriangle" time="0.006"/>
+  <testcase name="testTriangleInfo()" classname="com.example.project.TestTriangle" time="0.001"/>
+  <testcase name="testPerimeter()" classname="com.example.project.TestTriangle" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

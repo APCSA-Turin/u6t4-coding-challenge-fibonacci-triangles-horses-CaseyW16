@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestFibonacci" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-01-07T13:21:16" hostname="codespaces-a2960a" time="0.038">
+  <properties/>
+  <testcase name="testGetIndexOf()" classname="com.example.project.TestFibonacci" time="0.002"/>
+  <testcase name="testGetSequence()" classname="com.example.project.TestFibonacci" time="0.002"/>
+  <testcase name="testExtendBy()" classname="com.example.project.TestFibonacci" time="0.008"/>
+  <testcase name="testFibonacciString()" classname="com.example.project.TestFibonacci" time="0.012"/>
+  <testcase name="testConstructor()" classname="com.example.project.TestFibonacci" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
